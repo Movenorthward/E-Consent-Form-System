@@ -1,12 +1,10 @@
 📝 通用型電子同意書系統 (E-Consent Form System)
 
 
-📖 專案簡介 (Description)
 
-這是一個專為學校、教育機構或任何大型活動設計的**「全動態電子同意書系統」**。
+這是一個專為學校、教育機構或任何大型活動設計的「全動態電子同意書系統」。
+
 具備手機全螢幕手寫簽名、動態自訂收集欄位與授權項目、多國語系支援，並內建強大的教師管理後台，可一鍵預覽並匯出包含「家長簽名圖檔」的整理報表。
-
-A fully dynamic, multi-lingual E-Consent Form System designed for schools, educational institutions, and large events. Features include a mobile-friendly signature pad, customizable data fields, multi-language support (Zh/En/Ja), and a secure admin dashboard for exporting visual HTML/CSV reports.
 
 
 
@@ -276,6 +274,17 @@ appId: "您的\_APP\_ID"
 請務必在正式讓家長填寫前，先進入右下角的「教師管理後台」，將預設密碼修改為您自己的密碼。
 
 在後台設定好，系統首頁就會自動更新！
+
+
+
+👨‍🏫 給老師們的修改建議
+
+如果您懂一點點程式碼，您可以在 App.jsx 中搜尋並修改以下內容來符合您學校的需求：
+
+搜尋 基隆市立成功國民中學，改為您的學校名稱。
+
+如果需要增加欄位（例如：身分證字號、素食需求），可以在 Form State 區塊新增 useState，並在表單區塊加上對應的 <input>。
+
 
 
 👤 關於作者與出處
