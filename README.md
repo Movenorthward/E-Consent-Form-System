@@ -2,7 +2,7 @@
 
 📖 專案簡介 (Description)
 
-這是一個專為學校、教育機構或任何大型活動設計的**「全動態電子同意書系統」**。
+這是一個專為學校、教育機構或任何大型活動設計的「全動態電子同意書系統」。
 具備手機全螢幕手寫簽名、動態自訂收集欄位與授權項目、多國語系支援，並內建強大的教師管理後台，可一鍵預覽並匯出包含「家長簽名圖檔」的整理報表。
 
 A fully dynamic, multi-lingual E-Consent Form System designed for schools, educational institutions, and large events. Features include a mobile-friendly signature pad, customizable data fields, multi-language support (Zh/En/Ja), and a secure admin dashboard for exporting visual HTML/CSV reports.
